@@ -1,0 +1,28 @@
+{
+    "pensamentos": [
+      {
+        "id": 1,
+        "conteudo": "Gosto de Pudim",
+        "autoria": "Mohamed",
+        "modelo": "modelo1"
+      },
+      {
+        "id": 2,
+        "conteudo": "Eu amo a minha namorada",
+        "autoria": "Mohamed",
+        "modelo": "modelo2"
+      },
+      {
+        "id": 3,
+        "conteudo": "Porgramação é top",
+        "autoria": "Mohamed",
+        "modelo": "modelo3"
+      },
+      {
+        "conteudo": "Espero que tenham gostado",
+        "autoria": "Mohamed",
+        "modelo": "modelo2",
+        "id": 4
+      }
+    ]
+  }
